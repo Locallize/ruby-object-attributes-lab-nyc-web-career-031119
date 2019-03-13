@@ -8,9 +8,9 @@ class Dog
           @name
         end
         
-        # def breeds
+        def breeds
           
-        # end
+        end
       
 end
 
