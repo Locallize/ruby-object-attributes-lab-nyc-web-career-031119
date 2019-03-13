@@ -1,6 +1,6 @@
 
 class Person
-    def name=()
+    def name=(name)
         @this_dogs_name = dogs_name
     end
     
